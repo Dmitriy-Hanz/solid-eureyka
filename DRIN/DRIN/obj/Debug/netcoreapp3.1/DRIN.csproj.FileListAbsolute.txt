@@ -1,0 +1,13 @@
+C:\Users\Professional\source\repos\DRIN\DRIN\bin\Debug\netcoreapp3.1\DRIN.exe
+C:\Users\Professional\source\repos\DRIN\DRIN\bin\Debug\netcoreapp3.1\DRIN.deps.json
+C:\Users\Professional\source\repos\DRIN\DRIN\bin\Debug\netcoreapp3.1\DRIN.runtimeconfig.json
+C:\Users\Professional\source\repos\DRIN\DRIN\bin\Debug\netcoreapp3.1\DRIN.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\DRIN\DRIN\bin\Debug\netcoreapp3.1\DRIN.dll
+C:\Users\Professional\source\repos\DRIN\DRIN\bin\Debug\netcoreapp3.1\DRIN.pdb
+C:\Users\Professional\source\repos\DRIN\DRIN\obj\Debug\netcoreapp3.1\DRIN.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\DRIN\DRIN\obj\Debug\netcoreapp3.1\DRIN.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\DRIN\DRIN\obj\Debug\netcoreapp3.1\DRIN.AssemblyInfo.cs
+C:\Users\Professional\source\repos\DRIN\DRIN\obj\Debug\netcoreapp3.1\DRIN.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\DRIN\DRIN\obj\Debug\netcoreapp3.1\DRIN.dll
+C:\Users\Professional\source\repos\DRIN\DRIN\obj\Debug\netcoreapp3.1\DRIN.pdb
+C:\Users\Professional\source\repos\DRIN\DRIN\obj\Debug\netcoreapp3.1\DRIN.genruntimeconfig.cache
